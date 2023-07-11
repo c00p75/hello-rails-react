@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <h3><b>Rails with React</b></h3>
+  <h3><b>Hello-Rails-React</b></h3>
 </div>
 <a name="readme-top"></a>
 
@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Rails with React <a name="about-project"></a>
+# 📖 hello-rails-react <a name="about-project"></a>
 
 A project to implement a connection between a Ruby on Rails back-end and React front as one app with Webpack
 
@@ -63,13 +63,13 @@ In order to run this project you need:
 - Clone this repository to your desired folder:
 
 ```sh
- git clone https://github.com/c00p75/react_rails.git
+ git clone https://github.com/c00p75/hello-rails-react.git
 ```
 
 - Navigate into the cloned folder
 
 ```sh
- cd react_rails
+ cd hello-rails-react
 
 ```
 ### Install
@@ -112,7 +112,7 @@ In order to run this project you need:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/c00p75/react_rails/issues).
+Feel free to check the [issues page](https://github.com/c00p75/hello-rails-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
