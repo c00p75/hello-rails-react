@@ -8,7 +8,6 @@ const Greeting = () => {
 
   useEffect(() => {
     dispatch(fetchMessage())
-    console.log('The message is: ', message);
   }, []);
 
   return (
